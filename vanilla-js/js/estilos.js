@@ -1,4 +1,4 @@
-// Funciones de estilo para los polígonos
+// Funciones de estilo para los barrios
 export function getColor(feature) {
     const colores = {
         "DON BOSCO": '#FF0000',
@@ -39,4 +39,59 @@ export function onEachFeature(feature, layer) {
     if (feature.properties && feature.properties.nombre) {
         layer.bindPopup(`<b>${feature.properties.nombre}</b>`);
     }
+}
+
+// Funciones de estilo para la densidad
+export function getDensityColor(dens_pobl) {
+    return dens_pobl > 85 ? '#800026' :
+           dens_pobl > 65  ? '#BD0026' :
+           dens_pobl > 45  ? '#E31A1C' :
+           dens_pobl > 25  ? '#FC4E2A' :
+           dens_pobl > 5   ? '#FD8D3C' :
+           '#FFEDA0';
+}
+
+function densityStyle(feature) {
+    return {
+        fillColor: getDensityColor(feature.properties.dens_pobl),
+        weight: 2,
+        opacity: 1,
+        color: 'white',
+        dashArray: '3',
+        fillOpacity: 0.7
+    };
+}
+
+function highlightDensityFeature(e) {
+    var layer = e.target;
+    layer.setStyle({
+        weight: 5,
+        color: '#666',
+        dashArray: '',
+        fillOpacity: 0.7
+    });
+    layer.bringToFront();
+}
+
+function resetDensityHighlight(e) {
+    densityLayer.resetStyle(e.target);
+}
+
+function zoomToDensityFeature(e) {
+    mimapa.fitBounds(e.target.getBounds());
+}
+
+function onEachDensityFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightDensityFeature,
+        mouseout: resetDensityHighlight,
+        click: zoomToDensityFeature
+    });
+    
+    // Agregar popup con información de densidad
+    var props = feature.properties;
+    layer.bindPopup(
+        `Población total: ${props.p02_tot || 0}<br>
+         Densidad: ${props.dens_pobl || 0} hab/ha`
+    );
 }

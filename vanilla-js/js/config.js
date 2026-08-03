@@ -11,11 +11,11 @@ export const MAP_CONFIG = {
 export const BASE_LAYERS = {
     osm: {
         url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        attribution: '<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     },
     argenmap: {
         url: 'https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png',
-        attribution: '<a href="http://www.ign.gob.ar/AreaServicios/Argenmap/IntroduccionV2" target="_blank">Instituto Geográfico Nacional</a> + <a href="http://www.osm.org/copyright" target="_blank">OpenStreetMap</a>',
+        attribution: '<a href="http://www.ign.gob.ar/AreaServicios/Argenmap/IntroduccionV2" target="_blank">Instituto Geográfico Nacional</a>',
         minZoom: 3,
         maxZoom: 30
     },
@@ -26,3 +26,8 @@ export const BASE_LAYERS = {
         maxZoom: 30
     }
 };
+
+export const OVERLAY_LAYERS = {
+
+
+}
