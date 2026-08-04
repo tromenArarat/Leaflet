@@ -51,7 +51,7 @@ export function getDensityColor(dens_pobl) {
            '#FFEDA0';
 }
 
-function densityStyle(feature) {
+export function densityStyle(feature) {
     return {
         fillColor: getDensityColor(feature.properties.dens_pobl),
         weight: 2,
@@ -62,7 +62,8 @@ function densityStyle(feature) {
     };
 }
 
-function highlightDensityFeature(e) {
+// Funciones de interacción para densidad
+export function highlightDensityFeature(e) {
     var layer = e.target;
     layer.setStyle({
         weight: 5,
@@ -73,25 +74,29 @@ function highlightDensityFeature(e) {
     layer.bringToFront();
 }
 
-function resetDensityHighlight(e) {
-    densityLayer.resetStyle(e.target);
+export function resetDensityHighlight(e) {
+    // Referencia al layer para resetear el estilo
+    var layer = e.target;
+    // Estilo original almacenado en el layer
+    if (layer._originalStyle) {
+        layer.setStyle(layer._originalStyle);
+    } else {
+        // Si no tenemos el estilo original, usamos densityStyle
+        layer.setStyle(densityStyle(layer.feature));
+    }
 }
 
-function zoomToDensityFeature(e) {
-    mimapa.fitBounds(e.target.getBounds());
+export function zoomToDensityFeature(e) {
+    if (window.map) {
+        window.map.fitBounds(e.target.getBounds());
+    }
 }
 
-function onEachDensityFeature(feature, layer) {
-    layer.on({
-        mouseover: highlightDensityFeature,
-        mouseout: resetDensityHighlight,
-        click: zoomToDensityFeature
-    });
+// onEachFeature para densidad
+export function onEachDensityFeature(feature, layer) {
+    if (feature.properties && feature.properties.dens_pobl) {
+        layer.bindPopup(`Densidad: <b>${feature.properties.dens_pobl}</b> hab/ha`);
+    }
+}
     
-    // Agregar popup con información de densidad
-    var props = feature.properties;
-    layer.bindPopup(
-        `Población total: ${props.p02_tot || 0}<br>
-         Densidad: ${props.dens_pobl || 0} hab/ha`
-    );
-}
+   

@@ -11,7 +11,7 @@ export const MAP_CONFIG = {
 export const BASE_LAYERS = {
     osm: {
         url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-        attribution: '<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        attribution: '<a href="http://www.openstreetmap.org/copyright">OSM</a>'
     },
     argenmap: {
         url: 'https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png',
@@ -27,7 +27,4 @@ export const BASE_LAYERS = {
     }
 };
 
-export const OVERLAY_LAYERS = {
 
-
-}
