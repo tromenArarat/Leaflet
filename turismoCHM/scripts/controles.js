@@ -273,7 +273,7 @@ function mostrarLeyenda(nombreCapa) {
         </div>
     `;
     
-    controlLeyenda = L.control({ position: 'bottomleft' });
+    controlLeyenda = L.control({ position: 'topleft' });
     controlLeyenda.onAdd = function() {
         const div = L.DomUtil.create('div', 'info-legend-container');
         div.innerHTML = leyendaHtml;
