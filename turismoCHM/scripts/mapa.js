@@ -15,22 +15,25 @@ function inicializarMapa() {
         zoomControl: true,
         fadeAnimation: true,
         zoomAnimation: true,
-        attributionControl: false  // Desactivar atribución por defecto
+        attributionControl: false  
     });
 
     configurarCapasBase();
-    
-    // Agregar atribución personalizada
+    const isMobile = window.innerWidth <= 760;
     L.control.attribution({
-        position: 'bottomright',
+        position: isMobile ? 'topright' : 'bottomright',
         prefix: 'Leaflet | <a href="https://chosmalal.gob.ar/" target="_blank">Municipalidad de Chos Malal</a>'
+    
     }).addTo(mapa);
     
     L.control.scale({ 
-        position: 'bottomright',
+        position: isMobile ? 'topleft' : 'bottomleft',
         metric: true,
         imperial: false
     }).addTo(mapa);
+
+    
+
 }
 
 function configurarCapasBase() {
