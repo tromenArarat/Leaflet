@@ -1,0 +1,375 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2617317, -37.3876779]
+      },
+      "properties": {
+        "nombre": "Camping Tiempo Libre",
+        "direccion": "Av. Don Bosco s/n",
+        "telefono": "2942 690291",
+        "instagram": "https://www.instagram.com/tiempolibre5/",
+        "petfriendly": false,
+        "categoria": "Camping",
+        "descripcion": "Camping Tiempo Libre - Av. Don Bosco s/n - ☏ 2942 690291 - https://www.instagram.com/tiempolibre5/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4XzaCOIjqJSx5ovFtSlXLZA1_i_1Xb0SPwtixxA1M438WcmZZip-8KSiKAnGzZEYFz0LZZ_O6uT2WfHQpregV7FS0Ez4Ecy9P85XyTg9dpQ0eB221-4YaIBlvPKOkjx7iAefxcGlEYWnfd6Vttq10OYXQt86fPlvA8pfEQ5lbQa2RvHf3GOYaQ6YOtyUQtZ7x0VWnPUZ-R3xaaM9dfuA89XDzWq2vlu6jOrSO9wvnjZXdalhG6N0f-DAI?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2675038, -37.3870641]
+      },
+      "properties": {
+        "nombre": "Cabañas s/c Tunduca",
+        "direccion": "Primeros Constituyentes s/n",
+        "telefono": "2942 663002",
+        "instagram": null,
+        "petfriendly": true,
+        "categoria": "Cabañas",
+        "descripcion": "Cabañas s/c Tunduca - Primeros Constituyentes s/n - ☏ 2942 663002 - Petfriendly 🐾",
+        "imagenes": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2686409, -37.3859643]
+      },
+      "properties": {
+        "nombre": "La Casita Boutique",
+        "direccion": "Caicallen 1238",
+        "telefono": "2942 554646",
+        "instagram": "https://www.instagram.com/la_casita_boutique/",
+        "petfriendly": true,
+        "categoria": "Casa Turística",
+        "descripcion": "La Casita Boutique - Casa Turística - Petfriendly 🐾 - Caicallen 1238 - ☏ 2942 554646 - https://www.instagram.com/la_casita_boutique/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4VRRAPXojJBKAkkGGELVzovplRrbsFblI3ukZH-OWbj8aMkcNhg6_H822YcWFV1vJEhAro_kdRBoFt7ifFNwk2WOc4_x6X6CLID_Zirj_0FXkJptn-Adnin8WlnhAwTcMa6zaBeOWmER6Xwr3zJV1xcBJbh75YqpzN9fpg7JYUIgt_3pLQTh7A-79PZLSbWXeRorC6r9xi97VGW2QgAmvlWS2dxLQOac0WM_DL72oMJFTDNyxQxaotQtc?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2658675, -37.382874]
+      },
+      "properties": {
+        "nombre": "El Candil",
+        "direccion": "Sarmiento 1180",
+        "telefono": "2948 412252",
+        "facebook": "https://www.facebook.com/elcandilalojamiento",
+        "instagram": null,
+        "petfriendly": false,
+        "categoria": "Vivienda Turística",
+        "descripcion": "El Candil - Vivienda Turística - Sarmiento 1180 - ☏ 2948 412252 - https://www.facebook.com/elcandilalojamiento",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6rTAJRUEqRiswZLPsK-mM8J3-1tdk7_gMghUHw5cD-rnSDrG5xzYsOpeyD4HsVCSr4TWM1o9C7sUmAaGV4rFRs7keGV4xgUavCAWsky7EDN8ebN9XQwVT-BoLh_-i_aVzGXgMLizmd6YTgb2XWByScNGbZ0oy6AiccosdepMIyGVbYLPZjzErvClqzG_dcjoJmhJv9fHKAbPnHdjH9h7n7I_NB7H_ouZpx9FIAEm1hrGalU5iiecKgKZg?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2691666, -37.3816762]
+      },
+      "properties": {
+        "nombre": "Hotel* Portal Norte Neuquino",
+        "direccion": "25 de Mayo 101",
+        "telefono": "2942 587053",
+        "instagram": "https://www.instagram.com/hotel.portal.norte.neuquino/",
+        "petfriendly": true,
+        "categoria": "Hotel",
+        "descripcion": "Hotel* Portal Norte Neuquino - 25 de Mayo 101 - ☏ 2942 587053 - Petfriendly 🐾 - https://www.instagram.com/hotel.portal.norte.neuquino/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR455dL92eyZ6wsC8hV7KFZLk2RQTrIX0sHL41GbALQ9bff8NPl9Y3ynRhVdQ2UZxr40URlpX0To4u7vXw6-agQ4Ub73gx9rnr5G684nYZAFQbc22q58MQ3oMiKCGzg9p_DDEKKiWdLRvbHCyuuROiFz5kFbC1Iwsys0zmnjd32NbGhLGtC1MZliln1SoAv5IrALLGz9V_Q7T9NfudwKsiR1GfvkTyqznzqCI-wAyXLq6_qOiMLR5mpjCGE?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2736294, -37.3832428]
+      },
+      "properties": {
+        "nombre": "Hotel *** Terra Malal",
+        "direccion": "Salta 358",
+        "telefono": "2948 421058 / 2942 461453",
+        "instagram": "https://www.instagram.com/terra.malal/",
+        "petfriendly": false,
+        "categoria": "Hotel",
+        "descripcion": "Hotel *** Terra Malal - Salta 358 - ☏ 2948 421058 / 2942 461453 - https://www.instagram.com/terra.malal/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5dOx-Q-l2ZtCtGBTXHxChc-q6f15MqCUdMz6hotO1ceTUqvOhlChJ0Uxyg74pVAtlB_Z3TqETH4E8XV4BYOyQ-2TE8SCPlMm9UzQ6eecZH6i7ZJR4DcTn_g8kS_scQiccPfOBYH4ZeGftKPYftBYbTznI5LLCklTZrByLpyk0-0UA_iL-t9xYgfYZZbF09HuadfGkiU4Krm66XzO3Nlqd0RiSkoZ1WXSPyKvcFwpTjqaeBUvf9W1Qg9P4?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.273211, -37.3829955]
+      },
+      "properties": {
+        "nombre": "Hostería ** La Farfalla",
+        "direccion": "Salta 320",
+        "telefono": "2948 421349 / 2942 641809",
+        "instagram": "https://www.instagram.com/lafarfallahosteria/",
+        "petfriendly": true,
+        "categoria": "Hostería",
+        "descripcion": "Hostería ** La Farfalla - Salta 320 - ☏ 2948 421349 / 2942 641809 - Petfriendly 🐾 - https://www.instagram.com/lafarfallahosteria/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4332f4QcEKr3jYAY9AATTR-8MAEGIayhcjGAre_uHYLgeMkbgfxP3UhgbCk70tlYWHJ-KBQ1mDJJ5giONCKqtobEwbuUW8LzxjY2jQ2GRVje9M6FexIvjFju1ZuWcOUUk8EhNANkXqOzsJZ4Q-szBgL36r0awh184Ix6SzscqKcNBhcmcGAkWmn9mPOZWgzXYqYSndwdfxnSJ5IpS5Ssi7EZ2MxGmkoq4oPyptrFom3Xsw7DvWq-DP4GU?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.272417, -37.3802163]
+      },
+      "properties": {
+        "nombre": "Hostel La Quimera Ruta 40",
+        "direccion": "Villegas 637",
+        "telefono": "2942 556166 / 2948 451498",
+        "facebook": "https://www.facebook.com/laquimerachosmalal",
+        "instagram": null,
+        "petfriendly": true,
+        "categoria": "Hostel",
+        "descripcion": "Hostel La Quimera Ruta 40 - Villegas 637 - ☏ 2942 556166 / 2948 451498 - Petfriendly 🐾 - https://www.facebook.com/laquimerachosmalal",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6oFn48b95MxkpfNLU3n1OevOu_4K5piPvkaBBYVgCF3zlBo3uiOgnuq5MJkKRMDmMWMFhbLzpFFAF0vJS54nZKPeoquwjruBAuPM-0R4BsbM06KRYPjN-p5hudjOS67oqUe9ZF4aVMlBsU-c1DIlvL3zR4CXAg36vAAtsT0jfc2kIBk4VrnORnVUUWAIoppaVO5FoqAEOJzxWGpgPsoNv0oRkLFn6ZDAuOpNXqaKX-wF2PTDLbBkLiLXs?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2725565, -37.3795854]
+      },
+      "properties": {
+        "nombre": "Cabañas - Residencial Alto Chos Malal",
+        "direccion": "Jujuy 60",
+        "telefono": "2942 590630",
+        "instagram": null,
+        "petfriendly": false,
+        "categoria": "Cabañas",
+        "descripcion": "Cabañas - Residencial Alto Chos Malal - Jujuy 60 - ☏ 2942 590630",
+        "imagenes": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2665714, -37.3765667]
+      },
+      "properties": {
+        "nombre": "Hotel ** Mutual Policial",
+        "direccion": "Olascoaga 498",
+        "telefono": "2948 421208",
+        "web": "https://mppneuquen.com.ar/chos-malal/",
+        "instagram": null,
+        "petfriendly": false,
+        "categoria": "Hotel",
+        "descripcion": "Hotel ** Mutual Policial - Olascoaga 498 - ☏ 2948 421208 - https://mppneuquen.com.ar/chos-malal/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5Fam2qm23WQOZFwX467iej7BZ3w0xpECfAPvMlahGUTG_fmm4vcGURbIK5Wx0XuPGICvjwMEuM8A1lnCwteLB-iRKEYbJarwNeRq_bhIkJAZTrfkLjhelA_yvLnTC_mjrtzXXC8sUFJx2Q39gA3r9-03A8oOagNXm0O5ZRF-zwVsGsMg_-qsKFI2Lltb9-5whtHSpJNw187iJZGhu7kQBxWpzGQ0yMBnWRIwe-_iTbv-cDAPW37tA4BCg?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2732877, -37.3774449]
+      },
+      "properties": {
+        "nombre": "Hostería ** Anlu",
+        "direccion": "Lavalle 60",
+        "telefono": "2942 453062",
+        "instagram": "https://www.instagram.com/hosteriaanlu/",
+        "petfriendly": false,
+        "categoria": "Hostería",
+        "descripcion": "Hostería ** Anlu - Lavalle 60 - ☏ 2942 453062 - https://www.instagram.com/hosteriaanlu/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5nuaMsXuhCirwfh4-_2I5uTDXNS4juOXj2WID4OLkUvibXomVm2dEG4yEc2XVeCdtBbh3R8wMRkRqESely9-LTPhuEqXl4bH32IskjvSoPI-qI4-UegcE7ipvP74AYrdZFCPrzqvmaiknvPv48BYEyVaK7U7hN8tsanF02hujFhQiA56U1kY4TzgJvunUKTQxJAZyL9FQNwzOy8M1EQ6djeWghwJ_MP9moEEKHhbkXtImjkgT2yVW_HJU?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2736793, -37.3775642]
+      },
+      "properties": {
+        "nombre": "Hostel Lemus",
+        "direccion": "Lavalle 17",
+        "telefono": "2948 421133 / 2948 410123",
+        "instagram": "https://www.instagram.com/hospedajelemus/",
+        "petfriendly": true,
+        "categoria": "Hostel",
+        "descripcion": "Hostel Lemus - Lavalle 17 - ☏ 2948 421133 / 2948 410123 - Petfriendly 🐾 - https://www.instagram.com/hospedajelemus/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR55ASg1a-WlSpv7KOLPewXoPl8UMdTU-VJCkiMvj47zJwKmcK36Do5FdhsqP8GnULSm4mJ2PHONR6S426WB_TZmGmReuEJHj5PTjZzS0irT3dExxhor0AFseCe812X3XRmVA4BGgo-cgfbtU2oXhv5esrKNQFEWXECD3JSWLBnYKZU9KRqjWHE9GxPvoCFiKFSGnGwRl8rb2kScGgrnfpO_S40bvg0909wuoefVz3HQcBOohGDEKQ_vkQc?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2746449, -37.3758548]
+      },
+      "properties": {
+        "nombre": "Hostería *** Don Costa",
+        "direccion": "Sarmiento 234",
+        "telefono": "2948 421652 / 2942 400464",
+        "web": "https://hosteria-don-costa.hotels-argentina.net/es/",
+        "instagram": null,
+        "petfriendly": false,
+        "categoria": "Hostería",
+        "descripcion": "Hostería *** Don Costa - Sarmiento 234 - ☏ 2948 421652 / 2942 400464 - https://hosteria-don-costa.hotels-argentina.net/es/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR425wnedUg6rdcPgDBa5GUzkrCCtGMD-UnU77rJFXGLvfF1o65VFV_EoqpYyPQ-GjqIqvYg5SimVUqhlWMqky00l9mP4R2oAaM-6bGTmlqYG3w6uTuNb2RWyo0s7yXp8wvLhZ4Ls9KJ-ElyKU2Zxp0peqlQA_kDd5_t6ncaKZQDnt6f_QHv2HScCZqR4mghKCjwtyU2twwn3GAQotb4DlbTNW8IoAxIGJHWRkt4mGVOyGBeT40y7m03RDU?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2751186, -37.3722]
+      },
+      "properties": {
+        "nombre": "Camping Municipal Chos Malal",
+        "direccion": "Rivadavia y Costanera",
+        "telefono": "2948 454733",
+        "instagram": "https://www.instagram.com/turismo_chos_malal/",
+        "petfriendly": false,
+        "categoria": "Camping",
+        "descripcion": "Camping Municipal Chos Malal - Rivadavia y Costanera - ☏ 2948 454733 - https://www.instagram.com/turismo_chos_malal/",
+        "imagenes": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2972547, -37.3699209]
+      },
+      "properties": {
+        "nombre": "Vivienda Turística Las Diucas",
+        "direccion": "Ruta Prov. 43",
+        "telefono": "11 54591575 / 2942 555586 / 11 32725493",
+        "instagram": "https://www.instagram.com/lasdiucas_/",
+        "petfriendly": true,
+        "categoria": "Vivienda Turística",
+        "descripcion": "Vivienda Turística Las Diucas - Ruta Prov. 43 - 11 54591575 / 2942 555586 / 11 32725493 - Petfriendly 🐾 - https://www.instagram.com/lasdiucas_/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6IwPIps7ovXdRgQ-x0P9PdhJfx1Bty9NwV3B8T-mw1xejdafTrL9RQ62904fCdDG-R0Pgu0C4826qVHJ0dBQe85gY5ZS8-8z7Dg6OTrXGIpVzp_PCBJzV4Rcsv_TJtpdyorsaMZcGK_yH6qq3SfPHIjUFjux080A3iWgXDsUjhxfHBWQLWzAV0RcnAYovl3xAVyQQBQpGooe2AxD9580hQ9VD_CzX7LHh2zZmc-6Sa_LtEXY1QehuhAGY?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2731614, -37.371359]
+      },
+      "properties": {
+        "nombre": "Apart Hotel Amatista",
+        "direccion": "San Martín 445",
+        "telefono": "2948 421755 / 2942 695010",
+        "instagram": null,
+        "petfriendly": false,
+        "categoria": "Apart Hotel",
+        "descripcion": "Apart Hotel Amatista - San Martín 445 - ☏ 2948 421755 / 2942 695010",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6d3kVKuGyomP0peIaP1uz8HkSCO2-D5MUG0S1JvWirYhGkxOqyi0Ji-dvqceHUA8EoMwY5fqDhyyXleFZ-dQJy7r2xJbFX8wlXEliTaaYgPk_Q_Njk04XQkwyoWCCjv138gbP_3zyyRjZKsQPZnqWmsOoZBb0wLGboTXOzkiib3eAbTMQSaw86yLrVs4w-kI8bBpAaE9WwIEGYkM6k9HydzMCDTDLEQGGzs7cCDVYZDHotlDtU9wqmtRk?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2661404, -37.3939461]
+      },
+      "properties": {
+        "nombre": "Camping Melian",
+        "direccion": "Los Suaces, sector Chacras Sur",
+        "telefono": "2942 529865",
+        "instagram": "https://www.instagram.com/camping_melian/",
+        "petfriendly": false,
+        "categoria": "Camping",
+        "descripcion": "Camping Melian - Los Suaces, sector Chacras Sur - ☏ 2942 529865 - https://www.instagram.com/camping_melian/",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5dpXOBN6Yw5_wt3_DQox-LSTUtbylfPvB71uQ5rKhdhSeADznf26dAPPAYXSZIRvB26z4v7zHAbQlC6K26sFAiW3XQLyeRq5HpvV1PoQ-G7EotxmnQPJHFKtNcJtX4kXhSvqrExLHUJeORWIv_bxnrX6h8omm5Sujn3Y7YB3M2rjSMJylt5rffO4KTM8BO1UMChaLniIzQyxKBeOe_Mn99cYWhYVE1jYYNi9kQB6057Y2AAx2AX84y3XU?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2714956, -37.3766139]
+      },
+      "properties": {
+        "nombre": "GPz",
+        "direccion": "General Paz 441",
+        "telefono": "2996218058",
+        "instagram": null,
+        "petfriendly": false,
+        "categoria": "Vivienda Amoblada",
+        "descripcion": "GPz - Vivienda Amoblada - General Paz 441 - ☏ 2996218058",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6DUCihjy7S2fNR2MjSgEnMvNwBJGNPecwDb6xM6lJS3go035M5NgJ7fCz2ZE4w_dUSMLeC0S9HsaQ4AD6rVOU2qbJgLuZG5ujvYf_1FeDJQk3oXY-iPOPqoWd9hohxR5MU1y4V9gJxcf2ps7V54csURpVfA3R1VxQqlRwSrjse6rR-tAWzkwMKThKEvnFzZekvifBg-VT9SX25v-1xV-oZ7LmY5HSQubdJ4PbUtzVeGGZ9Np9plgfmVO4?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5fpBdj-1bTkEVE-c8u3LfXfglosz-GDv5Hs0JXlGiSyTkHxirjfjDybRC2fdjTo2kyQ4HX7JGJl8ysfF4EXlZWYsSXBV2cjGzsotyL5cUh1-W6tPrTaLQsB5GlrkoqfNm3-_VN8ZIBtF80U1BjnOX9O7toJpzxTOgkjZZkyOrOV5ELFR-2s72eoARozJSQ0YVLScGQtnW8EItXdxm7cY3sVOqYXGkG92-TEmCvYG2yWhz2oh1dFr_qpnM?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR65OG6NMQM1Fu6VAdhcQK5l7671eYqXzImULvZH8IttRLNPGEg79_oz97INR23fJ3hJ-6gCV--1daHG939Fqsp6OnVRyOprIJzCdfvpJ5MLG9vgeCfaB3V4WIPSmk4bFP0CYrj_L2n1JF-KmbIiTHG88p3fg4xDyAeV-X_ueu2d3GpYj-StQc9iev9tUY4KKBSwqls26vbKtWHpjo-FYOL6hdhGEAzzbsTTIK5NwJNuUSseu8I_gWohTrA?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4D-rw-jk4k4kh3PX7tTh5hnnn0tbtUAeaxrei2wbcpfrrjJSmCJCy5KHM3rV-6YwwENlYNZj-n7Xwv9nfWZvzMgb7gzDD0ZZm252FZPkb_gRbcSmjEzU0oBKbCqYNQ6yJtU80DM-DjR8SA5hZkjTLjPj4OAUW4NW31OZ-8b5T8E5W5FA_GR18st5EJr1WI-ZQOBHo9y8dAyliDKdbp2uRhZ4xQR8Y37GonhAzkOmMj8tgdkcxBu_EWYVA?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7p87yDDKL6n78vNW0RvnVz2vl98NJ8bU8EEdYetE0J8XQpb3Wke8ITsU59fTPGwsT5_0GsZF1jxC9V5UGOVpMID7vA5OCsYwuVft6c2tzJFGJK3r2SjfVLVBA6Cdf_7pPzQ4W5m03VC8hO2nzEuTlszhnPAvN11SBMO5TD5oyt_bxRanpnA2V3oA5Su66cjeBKGpF8_KO0oaIK9W1QR-t_Lrjr2KYF83MvaUpEhtZdRBBhpigTbG1C7I0?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR55lEkrYTWFf8lAkUNNF8ibZHq8eOP-i1OXCOoUZTQ1uDvF_3t3OLYDJ5Qd5bXji2zj-mTlueshIkvN7MF1zvAoh6Qyd_QxngF-WpRNhtMLgZ3nVQ0eTW19K9HRXTM65XfUM6E5JOwfU-Yqm_ni4HTvrTGcq_1t85ginZSCrYOPj8E4ae9wtCFzqjPPmH6YBgQjxt8PKIXCaQPKGDgQYUKUDq-UQq1vVSkKaQ3lRwlnr5XXdrC60L_gRJI?authuser=0&fife=s16383"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2657066, -37.3857986]
+      },
+      "properties": {
+        "nombre": "Alfran",
+        "direccion": "Villegas 1391",
+        "telefono": "2942 463660",
+        "instagram": null,
+        "petfriendly": false,
+        "categoria": "Alojamiento a Corto Plazo",
+        "descripcion": "Alfran - Alojamiento a Corto Plazo - Villegas 1391 - ☏ 2942 463660",
+        "imagenes": [
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5QRhFJFzj3tbuM3WJj_bmpkGdeFfH7tG9WMu0_t6cjUWVfqkDgJnzLbAAhBvY9w9OzCAw-gQzXqqZV-BaK_BU00s2dt3okzU-e_23p0gYeHHQdrIN3aPbMHYA1iOL-LKZKANT5fcJQScx_2fTkSCa-aA_oUXSMXQjv2Io2SaMqHWHsg9dRxa6x7Nz3VKRXrQKKEnOmZnfX11BUFC7sH8cvQIxQ72uy6oJjvBsgZaLZTtLQ6FVv1RZytIs?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR5S70OqkBK6lwMlnnoeiWOZ52YbFA4dWaxPCCkgJ5EFjVfI5jPXikHIBkimdE5UIAh0EwVxo2WqgVCRK5FqWCL_fbB-S-geh6SvL-Wn99WyJWutLxNNbbAamEJFFE8aCAPRXH2gkco-LbUQuVTETSdDjwUZxNq0Kz0aRfCkE8X4RiAEeTcuzTeKgVAPsv9nX1XXErvfHreS5E4Zwt-tEBQA1r7tui4ZEd0f8a7naDtUEWA1bVJ8c8q4A9s?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7iYcsg7MjqGETR1k87udjG1xcvX7UGIm5ZEro7AzDlr6nXmb-cszmSk95UOlmNvfak9N37YVXqraygZEuYbZzTjp8HJkfKvL7xlZK2OI0XNNNH6c1gzb9sHUK_SFwL8-mHEOC5KLvsW2nybUJKyXoFVPEE0ja8QYXUbCdOj3gDY0s68xZ8aAOeyMOF5D2P9JvjPUG4n8dZU2EC8KYnVbq_XIjvsNNSrk6_3nIgmnaeKaNJTR6kJndvjCE?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR45HsnTfWOuz1x1CsDrX4qmZIuWk20fdx4_bnaT9e-RLEv3D8gI-bSvNQfOLGB4p8mNdNsQnPJRSB7tmVGtj31joCna8RM0ydc0GNHvr-GtwETTvzxq_ScLD-NeNtLuwDJzXnoULpc9CU16IKAZK-ra17J_V9n5VihhacxZzPgB48jBo-Mk_mHOlNr8_7guYIJA6DDQD8ravwEbR4bXNKCkUMq_UZUZ-KLzFpiXdqpYmIEtrNqkiw468_w?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR4O84sKvPQRZpKDqb2cwVbm_qKRFsr93aZ8GhxmkXda0mL_CMmm7MCT-6Bx1JJ_0txrcj9WlEkdLUEWOYM1zykrwKbeSgHD4Z2wxlrz8VrgSHqxdw5n7yamsNautWRU3fTfirwbI67u4HUDMxo9ah5KY_1BOmiWNQwd8RyvvQ-CnCXDG0Sf4iEp828zSB8uEeAHGqBiA7fGtDSIIOEESSR3rKeJslTt3DYSsS2sf_R-jjeBqikmh4JxrM8?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR74pJu7xpQT5kepi2iS8QLGGAmQHxu8qf_1s5N2qSOpVMlac8nUfcIzDCzzV7J5akP6icpJTy5wv3XKNTBTsdDoaOhsTOml7L4X2Ptmh4-t53P75isYZlJt2P2wOSxqR3XTQqqFoODZiG7rP_BIKOV72rW6dRWIULBX398BXjrrI-utS3-yexKlk-USn3zYEzgraBqfx6v7V1haqlv6FzHcmoKkRbkvIJMzLQnZmzVzXwiEvGCPmhBBVoQ?authuser=0&fife=s16383",
+          "https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR6io-BodkOkwa5te_AoIKvg5JAijFLvMwCUTGDDFUft-xcqOQmjOwgSeXW_NcZYpRUbiR7Oh1oISnGq0nPA_E_mb09T93ATsvx1mTll8klhQPy72JnP-Z1pUbNPenYUtzWS-be1O89w4k9hlrHlQPVh5S8D5L17grMFjlKBC3mewYIklnBVq_AQwgr5JdXSlwhjM3XsNb_uiBVp95IyBgykfaAyEc6VK7vAVp_Uc3rVuDnwZwXlWCxTocY?authuser=0&fife=s16383"
+        ]
+      }
+    }
+  ]
+}

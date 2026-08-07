@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2740371, -37.3747565]
+      },
+      "properties": {
+        "nombre": "Vivero y Regionales del Centro",
+        "categoria": "recuerdos",
+        "direccion": "General Paz 180",
+        "telefono": null,
+        "descripcion": "Venta de artículos regionales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.265315, -37.3818308]
+      },
+      "properties": {
+        "nombre": "Donde Rosy",
+        "categoria": "recuerdos",
+        "direccion": "General Paz 1124",
+        "facebook": "https://www.facebook.com/profile.php?id=61563918037736",
+        "descripcion": "El Rinconcito del Artesano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2724641, -37.3768044]
+      },
+      "properties": {
+        "nombre": "Alma Rústica",
+        "categoria": "recuerdos",
+        "direccion": "Lavalle 143",
+        "telefono": "2646224188",
+        "descripcion": "Tejidos artesanales y objetos rústicos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2760172, -37.3748564]
+      },
+      "properties": {
+        "nombre": "Alfajorero",
+        "categoria": "recuerdos",
+        "telefono": "2942 654573",
+        "instagram": "https://www.instagram.com/elalfajorero.chml/",
+        "descripcion": "Alfajores Artesanales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2624339, -37.367519]
+      },
+      "properties": {
+        "nombre": "Hecho en Casa",
+        "categoria": "recuerdos",
+        "telefono": "2942 554055",
+        "descripcion": "Elaboración de escabeche de chivo y pavo, dulces y salsas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2701527, -37.3866292]
+      },
+      "properties": {
+        "nombre": "Rosita - Dulces y Conservas",
+        "categoria": "recuerdos",
+        "telefono": "299 4198218",
+        "descripcion": "Elaboración artesanal de escabeches, dulces de higo y frutillas, ciruelas y membrillos en almíbar."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.276244, -37.3746134]
+      },
+      "properties": {
+        "nombre": "C y C Tejidos Handmade",
+        "categoria": "recuerdos",
+        "facebook": "https://www.facebook.com/profile.php?id=100040872471778",
+        "descripcion": "Tejidos Artesanales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2733633, -37.3721664]
+      },
+      "properties": {
+        "nombre": "Cordecc",
+        "categoria": "recuerdos",
+        "direccion": "Juan B. Justo 45",
+        "telefono": "2942 599387",
+        "facebook": "https://www.facebook.com/profile.php?id=100034534341893",
+        "descripcion": "Escabeches de chivo, pavo y ajos."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2737983, -37.3834763]
+      },
+      "properties": {
+        "nombre": "Liliana Montenovo - Objetos Únicos",
+        "categoria": "recuerdos",
+        "instagram": "https://www.instagram.com/liliana_montenovo",
+        "descripcion": "Objetos únicos en fieltro y otros materiales."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2697614, -37.3774433]
+      },
+      "properties": {
+        "nombre": "Portal Seró",
+        "categoria": "recuerdos",
+        "direccion": "Lamadrid 247",
+        "telefono": "2942 568425",
+        "instagram": "https://www.instagram.com/kioscoportalsero/",
+        "descripcion": "Productos Regionales - Kiosco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2721003, -37.3774099]
+      },
+      "properties": {
+        "nombre": "Kiosko El Principito",
+        "categoria": "recuerdos",
+        "instagram": "https://www.instagram.com/kiosko_elprincipito?igsh=MWxtNThsZ2VnejJkeQ==",
+        "horarios": "De lunes a lunes de 09:00hs a 14:00hs y de 17:00hs a 23:00hs.",
+        "descripcion": "Kiosco, regalería, art de librería, entre otros."
+      }
+    }
+  ]
+}

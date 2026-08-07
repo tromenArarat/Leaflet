@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2656942, -37.3842794]
+      },
+      "properties": {
+        "nombre": "Farmacia MEOPP",
+        "categoria": "farmacia",
+        "direccion": "25 de Mayo 1500",
+        "telefono": "299 4499370",
+        "web": "https://sindicatopetroleros.org/mutual/farmacias/",
+        "horarios": "Lunes a Viernes de 8.30 a 12.30 hs y de 16 a 20 hs - Sábados de 9 a 13 hs",
+        "descripcion": "Farmacia Mutual de Petroleros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2733892, -37.3775339]
+      },
+      "properties": {
+        "nombre": "Farmacia Lavalle",
+        "categoria": "farmacia",
+        "direccion": "Lavalle 60",
+        "telefono": null,
+        "descripcion": "Farmacia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2743387, -37.3768454]
+      },
+      "properties": {
+        "nombre": "Farmacia ISSN",
+        "categoria": "farmacia",
+        "direccion": "Roca 46",
+        "telefono": "2948 421251",
+        "horarios": "Lunes a viernes de 8.30 a 16.30 hs",
+        "descripcion": "Farmacia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2741474, -37.3759523]
+      },
+      "properties": {
+        "nombre": "Farmasalud",
+        "categoria": "farmacia",
+        "direccion": "Sarmiento 285",
+        "telefono": "2948 458583",
+        "horarios": "Lunes a viernes de 8 a 14 hs y de 15 a 19 hs",
+        "descripcion": "Farmacia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2731443, -37.3757093]
+      },
+      "properties": {
+        "nombre": "Farmacia Nehuen",
+        "categoria": "farmacia",
+        "direccion": "Roca 183",
+        "telefono": "2942 409780",
+        "instagram": "https://www.instagram.com/farmacianehuenchosmalal/",
+        "horarios": "Lunes a sábados de 9 a 13 hs y de 17 a 21 hs",
+        "descripcion": "Farmacia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2770114, -37.3749452]
+      },
+      "properties": {
+        "nombre": "Alejandra Parada - Nortrekk",
+        "categoria": "guia_trekking",
+        "telefono": "2942 589751",
+        "instagram": "https://www.instagram.com/aleparada_/",
+        "descripcion": "Guía de Trekking grado I - Interpretando el patrimonio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.277023, -37.3748215]
+      },
+      "properties": {
+        "nombre": "Horacio Fuentes - Domuyo Trek",
+        "categoria": "guia_trekking",
+        "telefono": "2942 669894",
+        "instagram": "https://www.instagram.com/betodomuyo/",
+        "descripcion": "Guía de Trekking grado II y Alta Montaña"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2770903, -37.3747325]
+      },
+      "properties": {
+        "nombre": "Crhistian Pfoh - Senderos del Viento",
+        "categoria": "guia_trekking",
+        "telefono": "2942 403386 / 2942 585737",
+        "instagram": "https://www.instagram.com/senderosdelviento.chml/",
+        "web": "https://www.senderosdelviento.com/",
+        "descripcion": "Guía de Trekking grado II y guía de sitio Colo Michi Co"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2770438, -37.3750523]
+      },
+      "properties": {
+        "nombre": "Raúl Rebolledo - Cráter",
+        "categoria": "guia_trekking",
+        "telefono": "2948 411526",
+        "instagram": "https://www.instagram.com/crater.expediciones/",
+        "descripcion": "Expediciones y Logística. Guía de Trekking grado IV y de Alta Montaña"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2771565, -37.374672]
+      },
+      "properties": {
+        "nombre": "Emiliano Zamudio - Pirca",
+        "categoria": "guia_trekking",
+        "telefono": "2948 409363",
+        "instagram": "https://www.instagram.com/pirca_em/",
+        "descripcion": "Guía de Trekking grado II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2769416, -37.3748812]
+      },
+      "properties": {
+        "nombre": "Marcela Galarza",
+        "categoria": "guia_trekking",
+        "telefono": "2942 409489",
+        "instagram": "https://www.instagram.com/marcegalarza68/",
+        "descripcion": "Guía de Sitio Colo Michi Có"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2769184, -37.3750088]
+      },
+      "properties": {
+        "nombre": "Alan Fuentes - Alanvron Expediciones",
+        "categoria": "guia_trekking",
+        "telefono": "2944537119",
+        "instagram": "https://www.instagram.com/alanvron.expediciones/",
+        "descripcion": "Guía de Trekking grado II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2769531, -37.374757]
+      },
+      "properties": {
+        "nombre": "Denis Alvarez - Trekan Experiencias",
+        "categoria": "guia_trekking",
+        "telefono": "2942644463",
+        "instagram": "https://www.instagram.com/trekan.experiencias/",
+        "descripcion": "Guía de Trekking Grado II"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2768287, -37.3751709]
+      },
+      "properties": {
+        "nombre": "Juan López - Namuntu Repu",
+        "categoria": "guia_flora_fauna",
+        "telefono": "2942 445237",
+        "facebook": "https://www.facebook.com/profile.php?id=61577397992105",
+        "descripcion": "Guía de observación de flora y fauna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2764784, -37.3752361]
+      },
+      "properties": {
+        "nombre": "Porro, Gloria Gisela - Aventuras Cordillerana",
+        "categoria": "guia_cabalgata",
+        "telefono": "02942-412982",
+        "instagram": "https://www.instagram.com/aventurascordilleranas?igsh=dDVoMjd0ZmI0OG95",
+        "descripcion": "Guía de cabalgatas."
+      }
+    }
+  ]
+}

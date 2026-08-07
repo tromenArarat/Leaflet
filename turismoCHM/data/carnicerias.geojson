@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2674457, -37.3831242]
+      },
+      "properties": {
+        "nombre": "El Turco",
+        "categoria": "carniceria",
+        "direccion": "25 de Mayo y La Rioja",
+        "telefono": null,
+        "descripcion": "Carnicería"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2705161, -37.3806017]
+      },
+      "properties": {
+        "nombre": "La 25",
+        "categoria": "carniceria",
+        "direccion": "25 de Mayo 790",
+        "facebook": "https://www.facebook.com/profile.php?id=61558757903376",
+        "horarios": "Lunes a viernes de 9 a 13 hs y de 17.30 a 21.30 hs",
+        "descripcion": "Carnicería"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2726271, -37.37695]
+      },
+      "properties": {
+        "nombre": "El Rodeo",
+        "categoria": "carniceria",
+        "direccion": "Lavalle 118",
+        "telefono": null,
+        "descripcion": "Carnicería"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2678058, -37.3760674]
+      },
+      "properties": {
+        "nombre": "Don Santiago",
+        "categoria": "carniceria",
+        "direccion": "Lamadrid 452",
+        "facebook": "https://www.facebook.com/santiago.dondon.94",
+        "horarios": "Lunes a sábado: 9:30-13:30 /17 a 21:30 - Domingo: CERRADO",
+        "descripcion": "Carnicería"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2636992, -37.3741596]
+      },
+      "properties": {
+        "nombre": "Juanito",
+        "categoria": "carniceria",
+        "direccion": "Olascoaga y Cacique Purran",
+        "horarios": "Lunes a Sábado horario corrido - Domingo medio día",
+        "descripcion": "Carnicería"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2720752, -37.3734418]
+      },
+      "properties": {
+        "nombre": "El Rodeo",
+        "categoria": "carniceria",
+        "direccion": "Gral. Justo y Mitre",
+        "telefono": null,
+        "descripcion": "Carnicería"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2696461, -37.3768337]
+      },
+      "properties": {
+        "nombre": "Don Carlos",
+        "categoria": "carniceria",
+        "direccion": "Rivadavia 550",
+        "facebook": "https://www.facebook.com/don.carloscarniceria",
+        "descripcion": "Carnicería"
+      }
+    }
+  ]
+}

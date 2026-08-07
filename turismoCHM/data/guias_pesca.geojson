@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2771676, -37.3749862]
+      },
+      "properties": {
+        "nombre": "Carlos Orellana - Alto Neuquén Fly Fishing",
+        "categoria": "guia_pesca",
+        "telefono": "2942 655358",
+        "descripcion": "Guía de Pesca Deportiva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2771676, -37.3748839]
+      },
+      "properties": {
+        "nombre": "Gerardo Santos Tsuji - Patagonia Trashumante Fly Fishing",
+        "categoria": "guia_pesca",
+        "telefono": "11 5750 2156",
+        "instagram": "https://www.instagram.com/patagonia_trashumante_ff/",
+        "web": "www.patagonia-trashumante.com/",
+        "descripcion": "Guía de Pesca Deportiva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2772159, -37.3747475]
+      },
+      "properties": {
+        "nombre": "Marcelo Funes - Domuyo Fly Fishing",
+        "categoria": "guia_pesca",
+        "telefono": "2948 411978",
+        "facebook": "https://www.facebook.com/profile.php?id=100057209359466",
+        "descripcion": "Guía de Pesca Deportiva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2772409, -37.374819]
+      },
+      "properties": {
+        "nombre": "Nicolás Hanggi - El Arriero Fly Fishing",
+        "categoria": "guia_pesca",
+        "telefono": "2942 539271",
+        "instagram": "https://www.instagram.com/elarrieroflyfishing/",
+        "descripcion": "Guía de Pesca Deportiva"
+      }
+    }
+  ]
+}

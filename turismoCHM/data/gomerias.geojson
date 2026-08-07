@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.273405, -37.3745243]
+      },
+      "properties": {
+        "nombre": "San Sebastián",
+        "categoria": "gomeria",
+        "direccion": "Mitre 240",
+        "telefono": "2942 658231 / 2942 667577",
+        "descripcion": "Gomería - Mitre 240 - ☏ 2942 658231 / 2942 667577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2647879, -37.3839143]
+      },
+      "properties": {
+        "nombre": "El Gringo",
+        "categoria": "gomeria",
+        "direccion": "Sarmiento y Almirante Brown",
+        "telefono": null,
+        "descripcion": "Gomería - Sarmiento y Almirante Brown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2674433, -37.3816508]
+      },
+      "properties": {
+        "nombre": "García",
+        "categoria": "gomeria",
+        "direccion": "Sarmiento e Yrigoyen",
+        "telefono": "2942 661996",
+        "descripcion": "Gomería - Sarmiento e Yrigoyen - ☏ 2942 661996"
+      }
+    }
+  ]
+}

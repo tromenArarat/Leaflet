@@ -1,0 +1,712 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2576105, -37.3880998]
+      },
+      "properties": {
+        "nombre": "Piro",
+        "categoria": "restobar",
+        "direccion": "Av. Don Bosco s/n",
+        "telefono": "299 6250959",
+        "instagram": "https://www.instagram.com/piro.restobar/",
+        "horarios": "Abierto de Lunes a Domingo de 20:30 a 01:00hs. ¡TAMBIÉN ABIERTO MEDIODIAS!",
+        "descripcion": "Restobar - Av. Don Bosco s/n - ☏ 299 6250959 - Abierto de Lunes a Domingo de 20:30 a 01:00hs. ¡TAMBIÉN ABIERTO MEDIODIAS! - IG: https://www.instagram.com/piro.restobar/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2583686, -37.3883211]
+      },
+      "properties": {
+        "nombre": "Postal Norte",
+        "categoria": "restobar",
+        "direccion": "Av. Don Bosco s/n",
+        "telefono": "2942 646392",
+        "instagram": "https://www.instagram.com/queens.restobarchml/",
+        "horarios": "De martes a domingos de 20 a 3 am",
+        "descripcion": "Restobar - Av. Don Bosco s/n - ☏ 2942 646392 - De martes a domingos de 20 a 3 am - IG: https://www.instagram.com/queens.restobarchml/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2690795, -37.3843702]
+      },
+      "properties": {
+        "nombre": "El Salón",
+        "categoria": "restaurante",
+        "direccion": "Av. Las Flores y La Rioja",
+        "telefono": "2942 468848",
+        "instagram": "https://www.instagram.com/elsalonresto/",
+        "horarios": "Lun a Sáb de 12 a 15 y de 20 a 00 - Dom de 20 a 00",
+        "descripcion": "Restaurante - Av. Las Flores y La Rioja - ☏ 2942 468848 - Lun a Sáb de 12 a 15 y de 20 a 00 - Dom de 20 a 00 - IG: https://www.instagram.com/elsalonresto/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2693847, -37.3858013]
+      },
+      "properties": {
+        "nombre": "JR Comidas",
+        "categoria": "restaurante",
+        "direccion": "Islas Malvinas y Río Negro",
+        "telefono": "2942 694793",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Restaurante - Islas Malvinas y Río Negro - ☏ 2942 694793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2656025, -37.382912]
+      },
+      "properties": {
+        "nombre": "San Expedito",
+        "categoria": "rotiseria",
+        "direccion": "Sarmiento e Independencia",
+        "telefono": "2942 615103",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Rotisería - Sarmiento e Independencia - ☏ 2942 615103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.265231, -37.3811196]
+      },
+      "properties": {
+        "nombre": "Cúrcuma, Cocina Artesanal",
+        "categoria": "rotiseria",
+        "direccion": "Domuyo y Neuquén",
+        "telefono": "2942 596169",
+        "instagram": "https://www.instagram.com/curcoart2020/",
+        "horarios": "Martes a Sábados de 20:30 a 23 hs.",
+        "descripcion": "Rotisería - Domuyo y Neuquén - ☏ 2942 596169 - Martes a Sábados de 20:30 a 23 hs. - IG: https://www.instagram.com/curcoart2020/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2692383, -37.3815986]
+      },
+      "properties": {
+        "nombre": "Milo",
+        "categoria": "restaurante",
+        "direccion": "25 de Mayo y Mendoza",
+        "telefono": null,
+        "instagram": "https://www.instagram.com/milo.restaurante/",
+        "horarios": null,
+        "descripcion": "Restaurante - 25 de Mayo y Mendoza - https://www.instagram.com/milo.restaurante/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2732128, -37.3828684]
+      },
+      "properties": {
+        "nombre": "La Farfalla",
+        "categoria": "restaurante",
+        "direccion": "Islas Malvinas 320",
+        "telefono": "2942 641809 / 2948 421349",
+        "instagram": "https://www.instagram.com/lafarfallahosteria/",
+        "horarios": "Abierto todos los días mediodía/noche",
+        "descripcion": "Restaurante - Islas Malvinas 320 - ☏ 2942 641809 / 2948 421349 - Abierto todos los días mediodía/noche - IG: https://www.instagram.com/lafarfallahosteria/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2714669, -37.3798008]
+      },
+      "properties": {
+        "nombre": "La Nona Comidas",
+        "categoria": "rotiseria",
+        "direccion": "25 de Mayo 662",
+        "telefono": "2948 421567",
+        "facebook": "https://www.facebook.com/lanonacomidaschosmalal",
+        "instagram": null,
+        "horarios": "LUNES A SÁBADOS: DE 10:30HS A 15:00HS Y DE 20HS A 23:00HS. DOMINGOS: 10:30hs A 14:00hs",
+        "descripcion": "Rotisería - 25 de Mayo 662 - ☏ 2948 421567 - HORARIOS: ▫️LUNES A SÁBADOS: DE 10:30HS A 15:00HS Y DE 20HS A 23:00HS. ▫️DOMINGOS: 10:30hs A 14:00hs - https://www.facebook.com/lanonacomidaschosmalal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.270666, -37.3798122]
+      },
+      "properties": {
+        "nombre": "El Encuentro",
+        "categoria": "restobar",
+        "direccion": "Olascoaga 35",
+        "telefono": "2942 592449",
+        "instagram": "https://www.instagram.com/elencuentro_chosma/",
+        "horarios": "Todos los días desde las 20hs.",
+        "descripcion": "Restobar - Olascoaga 35 - ☏ 2942 592449 - Todos los días desde las 20hs. - IG: https://www.instagram.com/elencuentro_chosma/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2675356, -37.3771837]
+      },
+      "properties": {
+        "nombre": "Como en Casa",
+        "categoria": "rotiseria",
+        "direccion": "Olascoaga 391",
+        "telefono": "2942 592449",
+        "instagram": "https://www.instagram.com/como.en.casa25/",
+        "horarios": null,
+        "descripcion": "Rotisería - Olascoaga 391 - ☏ 2942 592449 - IG: https://www.instagram.com/como.en.casa25/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2674685, -37.37714]
+      },
+      "properties": {
+        "nombre": "Rey de la Empanada",
+        "categoria": "rotiseria",
+        "direccion": "Olascoaga y Gral. Justo",
+        "telefono": "2948 407403 / 2942 446604",
+        "instagram": "https://www.instagram.com/reydelaempanada_chosmalal/",
+        "horarios": null,
+        "descripcion": "Rotisería - Olascoaga y Gral. Justo - ☏ 2948 407403 / 2942 446604 - https://www.instagram.com/reydelaempanada_chosmalal/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2660876, -37.3761832]
+      },
+      "properties": {
+        "nombre": "La Kika Pizza",
+        "categoria": "comedor",
+        "direccion": "Olascoaga 518",
+        "telefono": "2948 422217",
+        "instagram": "https://www.instagram.com/lakikapizzas/",
+        "horarios": "Lunes a sábado de 11 a 14:30hs y de 20 a 00hs.",
+        "descripcion": "Comedor - Olascoaga 518 - ☏ 2948 422217 - Horarios: Lunes a sábado de 11 a 14:30hs y de 20 a 00hs. - https://www.instagram.com/lakikapizzas/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2696066, -37.3783231]
+      },
+      "properties": {
+        "nombre": "La Favela",
+        "categoria": "restaurante",
+        "direccion": "Gral. Paz 660",
+        "telefono": "299 5118404",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Restaurante - Gral. Paz 660 - ☏ 299 5118404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2703255, -37.3780589]
+      },
+      "properties": {
+        "nombre": "The Garrison",
+        "categoria": "cafe_bar",
+        "direccion": "Lamadrid 174",
+        "telefono": "2942 699217",
+        "instagram": "https://www.instagram.com/thegarrison.cafebar/",
+        "horarios": "Abierto de Martes a Domingos de 17.30 a 3am",
+        "descripcion": "Cafe Bar - Lamadrid 174 - ☏ 2942 699217 - Abierto de Martes a Domingos de 17.30 a 3am - https://www.instagram.com/thegarrison.cafebar/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2719657, -37.3794733]
+      },
+      "properties": {
+        "nombre": "Full ACA",
+        "categoria": "drugstore",
+        "direccion": "25 de Mayo 614",
+        "telefono": "2995 952641",
+        "instagram": "https://www.instagram.com/ypfacachosmalal/",
+        "horarios": null,
+        "descripcion": "Drugstore - 25 de Mayo 614 - ☏ 2995 952641 - https://www.instagram.com/ypfacachosmalal/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2723197, -37.379388]
+      },
+      "properties": {
+        "nombre": "Don Costa",
+        "categoria": "pasteleria",
+        "direccion": "Jujuy 30",
+        "telefono": "2942 402414",
+        "instagram": "https://www.instagram.com/don.costa/",
+        "horarios": null,
+        "descripcion": "Pastelería - Jujuy 30 - ☏ 2942 402414 - https://www.instagram.com/don.costa/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2703993, -37.3774016]
+      },
+      "properties": {
+        "nombre": "Canay",
+        "categoria": "pizzeria",
+        "direccion": "Gral. Paz 559",
+        "telefono": "2942 357400",
+        "instagram": "https://www.instagram.com/barcanaychosmalal/",
+        "horarios": "Miércoles a Lunes, de 12:00 a 14:30 y de 20:30 a 23:30hs. Domingos por la noche. Martes cerrado.",
+        "descripcion": "Pizzas y minutas - Gral. Paz 559 - ☏ 2942 357400 - Miércoles a Lunes, de 12:00 a 14:30 y de 20:30 a 23:30hs. Domingos por la noche. Martes cerrado. - https://www.instagram.com/barcanaychosmalal/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2711879, -37.3768538]
+      },
+      "properties": {
+        "nombre": "Ale Make",
+        "categoria": "rotiseria",
+        "direccion": "Gral Paz 499",
+        "telefono": "2948 459063",
+        "instagram": "https://www.instagram.com/rotiseria_alemake/",
+        "horarios": null,
+        "descripcion": "Rotisería - Gral Paz 499 - ☏ 2948 459063 - https://www.instagram.com/rotiseria_alemake/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2718571, -37.377652]
+      },
+      "properties": {
+        "nombre": "Bahía Café",
+        "categoria": "restaurante",
+        "direccion": "Urquiza 119",
+        "telefono": "2948 422091",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Restaurante y Confitería - Urquiza 119 - ☏ 2948 422091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2724847, -37.3757763]
+      },
+      "properties": {
+        "nombre": "Don Costa Café",
+        "categoria": "cafeteria",
+        "direccion": "Gral. Paz 337",
+        "telefono": "2942 405501",
+        "instagram": "https://www.instagram.com/doncosta/",
+        "horarios": "Todos los dias de 09 a 21hs",
+        "descripcion": "Cafetería y Pastelería - Gral. Paz 337 - ☏ 2942 405501 - Todos los dias de 09 a 21hs - https://www.instagram.com/doncosta/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.27396, -37.3765714]
+      },
+      "properties": {
+        "nombre": "Las Delicias de la Traful",
+        "categoria": "panaderia",
+        "direccion": "Roca 56",
+        "telefono": "2942 535516",
+        "facebook": "https://www.facebook.com/las.delicias.chosmalal",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Panadería y Confitería - Roca 56 - ☏ 2942 535516 - https://www.facebook.com/las.delicias.chosmalal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2741048, -37.3776627]
+      },
+      "properties": {
+        "nombre": "Cosas Ricas",
+        "categoria": "panaderia",
+        "direccion": "25 de Mayo 386",
+        "telefono": "2942 661237",
+        "instagram": "https://www.instagram.com/cosasricaschos/",
+        "horarios": null,
+        "descripcion": "Panadería y Confitería - 25 de Mayo 386 - ☏ 2942 661237 - https://www.instagram.com/cosasricaschos/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2733431, -37.3780186]
+      },
+      "properties": {
+        "nombre": "Casino Chos Malal",
+        "categoria": "cafeteria",
+        "direccion": "25 de Mayo 435",
+        "telefono": null,
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Confitería - 25 de Mayo 435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2736076, -37.3748566]
+      },
+      "properties": {
+        "nombre": "Full YPF",
+        "categoria": "drugstore",
+        "direccion": "Gral. Paz y Mitre",
+        "telefono": "2942 593176",
+        "instagram": "https://www.instagram.com/ypfchosmalal/",
+        "horarios": null,
+        "descripcion": "Drugstore - Gral. Paz y Mitre - ☏ 2942 593176 - https://www.instagram.com/ypfchosmalal/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2745808, -37.3758537]
+      },
+      "properties": {
+        "nombre": "Don Costa",
+        "categoria": "heladeria",
+        "direccion": "Sarmiento 234",
+        "telefono": "2942 400494",
+        "facebook": "https://www.facebook.com/DonCosta.web?locale=es_LA",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Heladería y Pastelería - Sarmiento 234 - ☏ 2942 400494 - https://www.facebook.com/DonCosta.web?locale=es_LA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2748142, -37.3753592]
+      },
+      "properties": {
+        "nombre": "La Familia",
+        "categoria": "rotiseria",
+        "direccion": "Sarmiento 185",
+        "telefono": "2942 566453",
+        "instagram": "https://www.instagram.com/lafamilia6106/",
+        "horarios": null,
+        "descripcion": "Rotisería - Sarmiento 185 - ☏ 2942 566453 - https://www.instagram.com/lafamilia6106/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2749778, -37.3752505]
+      },
+      "properties": {
+        "nombre": "Berlín Club",
+        "categoria": "bar",
+        "direccion": "Sarmiento 165",
+        "telefono": "2942 478387",
+        "instagram": "https://www.instagram.com/berlin.clubb",
+        "horarios": null,
+        "descripcion": "Bar Confitería - Sarmiento 165 - ☏ 2942 478387 - https://www.instagram.com/berlin.clubb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2746666, -37.3727801]
+      },
+      "properties": {
+        "nombre": "Liberty Pub",
+        "categoria": "bar",
+        "direccion": "San Martín y Rivadavia",
+        "telefono": null,
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Bar - San Martín y Rivadavia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2666689, -37.383708]
+      },
+      "properties": {
+        "nombre": "Amulen",
+        "categoria": "panaderia",
+        "direccion": "25 de Mayo 382",
+        "telefono": "2942 402801",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Panadería - 25 de Mayo 382 - ☏ 2942 402801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2705423, -37.3760901]
+      },
+      "properties": {
+        "nombre": "Maná del Cielo",
+        "categoria": "panaderia",
+        "direccion": "Rivadavia 460",
+        "telefono": "2942 690261",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Panaderia - Rivadavia 460 - ☏ 2942 690261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2730582, -37.3724598]
+      },
+      "properties": {
+        "nombre": "Emanuel",
+        "categoria": "panaderia",
+        "direccion": "Gral. Justo 777",
+        "telefono": "2942 558188",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Panadería - Gral. Justo 777 - ☏ 2942 558188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2677767, -37.3758545]
+      },
+      "properties": {
+        "nombre": "X Una",
+        "categoria": "cerveceria",
+        "direccion": "Lamadrid 469",
+        "telefono": "2942 589637",
+        "instagram": "https://www.instagram.com/x_una2023/",
+        "horarios": "Todos los días a partir de las 19hs",
+        "descripcion": "Cervecería Artesanal - Lamadrid 469 - ☏ 2942 589637 - Todos los días a partir de las 19hs - https://www.instagram.com/x_una2023/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2701424, -37.3779284]
+      },
+      "properties": {
+        "nombre": "La Bambina",
+        "categoria": "panaderia",
+        "direccion": "Lamadrid y Gral. Paz",
+        "telefono": null,
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Panadería - Lamadrid y Gral. Paz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2656385, -37.3845999]
+      },
+      "properties": {
+        "nombre": "Mocaccino",
+        "categoria": "panaderia",
+        "direccion": "25 de Mayo y Antártida Argentina",
+        "telefono": null,
+        "instagram": "https://www.instagram.com/mocaccinosf/",
+        "horarios": "Todos los días de 8am a 13pm / 17pm a 21:30 pm",
+        "descripcion": "Panadería y Confitería - 25 de Mayo y Antártida Argentina - Todos los días de 8am a 13pm / 17pm a 21:30 pm - https://www.instagram.com/mocaccinosf/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2725884, -37.3801497]
+      },
+      "properties": {
+        "nombre": "La Quimera - Cocina de Autor",
+        "categoria": "restaurante",
+        "direccion": "Villegas 637",
+        "telefono": "2948 412719",
+        "instagram": "https://www.instagram.com/bodegon.restaurante_la_quimera/",
+        "horarios": "Miércoles a Sábado, de 20:00hs a 00:00hs",
+        "descripcion": "Bodegón - Restaurante - Villegas 637 - ☏ 2948 412719 - Horarios de atención: Miércoles a Sábado, de 20:00hs a 00:00hs - https://www.instagram.com/bodegon.restaurante_la_quimera/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2650456, -37.3766574]
+      },
+      "properties": {
+        "nombre": "Locos x la Comida",
+        "categoria": "comedor",
+        "direccion": "Pje. Salvatori y 4 de Agosto",
+        "telefono": "2948 452217",
+        "instagram": "https://www.instagram.com/locosxlacomidachosma/",
+        "horarios": "Abierto todos los días - ⏰️11:00 a 15:00 de 20:00 a 00:00 Hs",
+        "descripcion": "Casa de comidas - Pje. Salvatori y 4 de Agosto - ☏ 2948 452217 - Abierto todos los días - ⏰️11:00 a 15:00 de 20:00 a 00:00 Hs - https://www.instagram.com/locosxlacomidachosma/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2305853, -37.4023944]
+      },
+      "properties": {
+        "nombre": "La Vieja Estación",
+        "categoria": "parador",
+        "direccion": "Ruta Nac. 40 km 2623",
+        "telefono": "2948 401377",
+        "instagram": "https://www.instagram.com/la.vieja.estacion_/",
+        "horarios": null,
+        "descripcion": "Parador - Ruta Nac. 40 km 2623 - ☏ 2948 401377 - https://www.instagram.com/la.vieja.estacion_/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2438058, -37.308201]
+      },
+      "properties": {
+        "nombre": "Mi Pago",
+        "categoria": "parrilla",
+        "direccion": "La Salada - Ruta 40, a 500 mts de San Ceferino",
+        "telefono": "2942 686887",
+        "instagram": null,
+        "horarios": null,
+        "descripcion": "Parrilla - La Salada - Ruta 40, a 500 mts de San Ceferino - ☏ 2942 686887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2733021, -37.3783365]
+      },
+      "properties": {
+        "nombre": "Valhalla - Cerveza Artesanal Food",
+        "categoria": "cerveceria",
+        "direccion": "25 de Mayo 460",
+        "telefono": "2942 699436",
+        "instagram": "https://www.instagram.com/valhalla_cerveza_artesanalfood/",
+        "horarios": null,
+        "descripcion": "25 de Mayo 460 - ☏ 2942 699436 - https://www.instagram.com/valhalla_cerveza_artesanalfood/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2665054, -37.3777128]
+      },
+      "properties": {
+        "nombre": "Nativo",
+        "categoria": "restobar",
+        "direccion": "Gral. Justo y 4 de Agosto",
+        "telefono": "2942 487072",
+        "instagram": "https://www.instagram.com/nativorestobar.chml/",
+        "horarios": "Abierto de miércoles a domingo - 20:30",
+        "descripcion": "Resto Bar - Gral. Justo y 4 de Agosto - ☏ 2942 487072 - Abierto de miércoles a domingo - 20:30 - https://www.instagram.com/nativorestobar.chml/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2724309, -37.3758494]
+      },
+      "properties": {
+        "nombre": "Kuyen",
+        "categoria": "restaurante",
+        "direccion": "General Paz 337",
+        "telefono": "2942 646756",
+        "instagram": "https://www.instagram.com/kuyen_goodfood/",
+        "horarios": "de Martes a Domingo de 12 a 14.30 hs y 20.30 a 23.30 hs",
+        "descripcion": "General Paz 337 - ☏ 2942 646756 - de Martes a Domingo de 12 a 14.30 hs y 20.30 a 23.30 hs - https://www.instagram.com/kuyen_goodfood/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2639816, -37.3779639]
+      },
+      "properties": {
+        "nombre": "Maná Eventos Social Club",
+        "categoria": "discoteca",
+        "direccion": null,
+        "telefono": null,
+        "instagram": "https://www.instagram.com/manaeventosocialclub/",
+        "horarios": null,
+        "descripcion": "Discoteca y club nocturno - https://www.instagram.com/manaeventosocialclub/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2747478, -37.3784385]
+      },
+      "properties": {
+        "nombre": "KND Punto Cervecero",
+        "categoria": "cerveceria",
+        "direccion": null,
+        "telefono": null,
+        "instagram": "https://www.instagram.com/kndpuntocervecero?igsh=MXFic2pvaWdhdXc5OQ==",
+        "horarios": "Lunes a viernes de 20:00 a 02:00am - Fines de Semana: 20:00 a 04:00am.",
+        "descripcion": "Horarios de atención: Lunes a viernes de 20:00 a 02:00am - Fines de Semana: 20:00 a 04:00am. - https://www.instagram.com/kndpuntocervecero?igsh=MXFic2pvaWdhdXc5OQ=="
+      }
+    }
+  ]
+}

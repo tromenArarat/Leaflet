@@ -1,0 +1,263 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2729083, -37.3783896]
+      },
+      "properties": {
+        "nombre": "Landete",
+        "categoria": "supermercado",
+        "direccion": "25 de Mayo y Urquiza",
+        "telefono": "2948 421184",
+        "web": "http://www.superlandete.com.ar/",
+        "descripcion": "Supermercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2719788, -37.3777531]
+      },
+      "properties": {
+        "nombre": "Atalaya",
+        "categoria": "supermercado",
+        "direccion": "Sarmiento y Urquiza",
+        "telefono": null,
+        "descripcion": "Supermercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2730686, -37.3768405]
+      },
+      "properties": {
+        "nombre": "Cooperativa Obrera",
+        "categoria": "supermercado",
+        "direccion": "Sarmiento y Lavalle",
+        "telefono": "2948 422762",
+        "horarios": "Lunes a sábados: horario corrido - Domingo: medio día",
+        "descripcion": "Supermercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2723797, -37.3761057]
+      },
+      "properties": {
+        "nombre": "Cooperativa Obrera",
+        "categoria": "supermercado",
+        "direccion": "Gral. Paz 365",
+        "telefono": "2948 422717",
+        "horarios": "Lunes a sábados: horario corrido - Domingo: medio día",
+        "descripcion": "Supermercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2702863, -37.3775706]
+      },
+      "properties": {
+        "nombre": "Pachi",
+        "categoria": "minimercado",
+        "direccion": "Gral. Paz 575",
+        "horarios": "Horario Corrido",
+        "descripcion": "Minimercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2728847, -37.3757352]
+      },
+      "properties": {
+        "nombre": "Santino",
+        "categoria": "supermercado",
+        "direccion": "Gral. Paz y Roca",
+        "horarios": "Lunes a sábados: horario corrido - Domingo: medio día",
+        "descripcion": "Supermercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.266514, -37.3821587]
+      },
+      "properties": {
+        "nombre": "El Barrio",
+        "categoria": "almacen",
+        "direccion": "Sarmiento y Neuquén",
+        "horarios": "Horario Corrido",
+        "descripcion": "Almacén"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2654814, -37.3829835]
+      },
+      "properties": {
+        "nombre": "3 Soles",
+        "categoria": "almacen",
+        "direccion": "Sarmiento e Independencia",
+        "descripcion": "Almacén"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2695645, -37.3857394]
+      },
+      "properties": {
+        "nombre": "Puelche",
+        "categoria": "almacen",
+        "direccion": "Islas Malvinas 1165",
+        "descripcion": "Almacén"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2715865, -37.3855037]
+      },
+      "properties": {
+        "nombre": "Valentín",
+        "categoria": "almacen",
+        "direccion": "Las Plata 1075",
+        "descripcion": "Almacén"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2637421, -37.3740828]
+      },
+      "properties": {
+        "nombre": "La Granja de Juanito",
+        "categoria": "supermercado",
+        "direccion": "Olascoaga y Cacique Purran",
+        "telefono": "2948 459386",
+        "web": "https://www.juanitosrl.com/",
+        "horarios": "Lunes a Sábado horario corrido - Domingo medio día",
+        "descripcion": "Supermercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2660599, -37.3538524]
+      },
+      "properties": {
+        "nombre": "Landete",
+        "categoria": "supermercado",
+        "direccion": "Landestoy 487",
+        "web": "http://www.superlandete.com.ar/",
+        "descripcion": "Supermercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.268068, -37.3750285]
+      },
+      "properties": {
+        "nombre": "PyM",
+        "categoria": "minimercado",
+        "direccion": "Corrientes 519",
+        "telefono": "2942 549240",
+        "descripcion": "Minimercado - Pollo al spiedo, con o sin ensalada."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2764797, -37.3799817]
+      },
+      "properties": {
+        "nombre": "Las Flores",
+        "categoria": "minimercado",
+        "direccion": "Santa Cruz, casi Islas Malvinas",
+        "telefono": "2948 423505",
+        "facebook": "https://www.facebook.com/lasfloresmini",
+        "descripcion": "Minimercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2755011, -37.3731766]
+      },
+      "properties": {
+        "nombre": "Minimarket El Moncho",
+        "categoria": "minimercado",
+        "direccion": "San Martín 215",
+        "facebook": "https://www.facebook.com/profile.php?id=61584147645207",
+        "descripcion": "Minimercado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.264115, -37.3745949]
+      },
+      "properties": {
+        "nombre": "Mi Barrio",
+        "categoria": "almacen",
+        "direccion": "Olascoaga y Gregorio Álvarez",
+        "instagram": "https://www.instagram.com/almacen_mibarrio?igsh=OHk2bHJlbDd3b2Jz",
+        "horarios": "Lunes a Domingos: 09:00 a 23:00 de corrido.",
+        "descripcion": "Almacén"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2757236, -37.3793779]
+      },
+      "properties": {
+        "nombre": "Alto Neuquén",
+        "categoria": "autoservicio",
+        "direccion": "Av. Estanislao Flores N°397",
+        "instagram": "https://www.instagram.com/altoneuquen.autoservicio?igsh=a3d1MGYwOGtpMXBq",
+        "horarios": "De lunes a lunes. 09:00 a 14:00 - 17:00 a 00:00hs",
+        "descripcion": "Autoservicio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2733206, -37.3740036]
+      },
+      "properties": {
+        "nombre": "La Ramada Almacén",
+        "categoria": "almacen",
+        "direccion": "Rivadavia N°184",
+        "instagram": "https://www.instagram.com/laramadaalmacen?igsh=Ym81M3I0bm1rb3Y3",
+        "horarios": "Lunes a Sábados 09:00 a 13:00 - 17:00 a 21:00",
+        "descripcion": "Agroecológicos, orgánicos, regionales y medicina de la tierra."
+      }
+    }
+  ]
+}

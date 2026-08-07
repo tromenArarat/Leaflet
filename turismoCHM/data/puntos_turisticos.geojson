@@ -1,0 +1,267 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2765585, -37.3748387]
+      },
+      "properties": {
+        "nombre": "Plaza San Martín",
+        "categoria": "plaza",
+        "descripcion": "La Plaza San Martín forma parte del Casco Histórico, ya que alrededor de ella podemos observar y visitar edificios de la época fundacional de Chos Malal como es la Parroquia María Auxiliadora. Museo Provincial Olascoaga, Museo de la Gente (Casa de la Cultura), Almacén de Ramos Generales Dewey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2756197, -37.3747577]
+      },
+      "properties": {
+        "nombre": "Viajo Almacén de Ramos Generales Dewey",
+        "categoria": "museo",
+        "descripcion": "La construcción de la Casa fue entre los años 1894 y 1903, y los materiales utilizados se compraron a la compañía importadora de John Wright con sede en Buenos Aires. El cemento era traído desde Inglaterra. Actualmente, en la Casa aún se conservan las pequeñas cajas en las que llegaba el preciado material. Este espacio aún guarda en su interior valiosos objetos de aquellos años, cuando la ciudad se transformó en el centro comercial de toda la región, desde su fundación en 1887 por el coronel Manuel José Olascoaga."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2759282, -37.3745254]
+      },
+      "properties": {
+        "nombre": "Archivo Histórico",
+        "categoria": "archivo",
+        "descripcion": "Fue creado por Ordenanza Municipal 195/86 a raíz de una solicitud realizada por la Comisión de Festejos del Centenario. Actualmente funciona en la casa de la familia Dewey, cuenta con dos salas de documentos, una sala de exposiciones, donde se encuentra material fotográfico, el sable del coronel Manuel José Olascoaga, el libro personal de recortes periodístico, y bibliografía del Coronel, además de 58 cajas de expedientes del juzgado de Paz desde la fundación."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2764271, -37.3741438]
+      },
+      "properties": {
+        "nombre": "Museo de la Gente",
+        "categoria": "museo",
+        "descripcion": "Fue creado por Ordenanza municipal Nº 3157/18, funciona en la Casa de la Cultura Francisco Dewey, y tiene como objetivo rescatar, conservar y estudiar nuestro pasado, educando y dando el valor histórico través de su contenido."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2768743, -37.3742248]
+      },
+      "properties": {
+        "nombre": "Centro Cultural del Norte Neuquino",
+        "categoria": "centro_cultural",
+        "descripcion": "En este edificio funcionaba el Hotel de Turismo que representa una importante parte de la historia de nuestra ciudad, siendo construido e inaugurado en el año 1967. En el 2013, luego de años de abandono, se lo refaccionó completamente y se convirtió en el Centro Cultural del Norte Neuquino, espacio donde convive la historia y la cultura del Norte de la provincia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2776736, -37.3747491]
+      },
+      "properties": {
+        "nombre": "Museo Provincial Manuel José Olascoaga",
+        "categoria": "museo",
+        "descripcion": "Fue inaugurado el 4 de Agosto de 1966. Se funda en lo que fuera el edificio de la Policía del Territorio Nacional del Neuquén. El edificio es una estructura de más de 100 años (data de la fundación de Chos Malal, en el año 1887), y está enteramente construido en adobe de barro crudo. Cuenta con tres salas de exposición: Pueblos Originarios, Campaña del desierto y sala Olascoaga."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2781923, -37.3743228]
+      },
+      "properties": {
+        "nombre": "El Torreón",
+        "categoria": "monumento",
+        "descripcion": "Fuerte IV División - cerrito Histórico. A comienzos del año 1891 había en la parte más alta del cerrito una pequeña construcción de suficiente altura como para proteger a un hombre de pie. En octubre de 1891 fue demolida y en su reemplazo se levantó el torreón, cuya obra fue ejecutada por Manuel Olascoaga. Fue el tercer gobernador teniente coronel Franklin Rawson, quien hizo techar el torreón tres años más tarde."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2775968, -37.3734172]
+      },
+      "properties": {
+        "nombre": "Costanera",
+        "categoria": "paseo",
+        "descripcion": "Paseo costanero de Chos Malal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2719549, -37.3786533]
+      },
+      "properties": {
+        "nombre": "Plaza Sarmiento",
+        "categoria": "plaza",
+        "descripcion": "La plaza Lucio V. López (hoy Sarmiento) fue inaugurada el 9 de Julio de 1895 en homenaje al nieto del creador del Himno Nacional. El 11 de septiembre de 1926 se colocó en el centro de la plaza un busto de Domingo Faustino Sarmiento. El 16 de junio de 1961, el concejo Deliberante de Chos Malal resolvió modificar el nombre de la plaza por el de Domingo F. Sarmiento."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2671162, -37.3663584]
+      },
+      "properties": {
+        "nombre": "Cerro y Mirador de la Cruz",
+        "categoria": "mirador",
+        "descripcion": "Sendero fácil de hacer con una dificultad media a baja, con una altura de 914 msnm, que puede recorrerse en 20 minutos. Desde la cima se puede observar el valle de Chos Malal junto a un imponente paisaje montañoso como la Cordillera del Viento y la confluencia de los ríos Neuquén y Curí Leuvu. Cuenta con un sendero iluminado para realizar caminatas nocturnas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2346016, -37.4002966]
+      },
+      "properties": {
+        "nombre": "Hito Mitad Ruta 40",
+        "categoria": "hito",
+        "descripcion": "Punto estratégico en el camino, donde el turista puede detenerse y tomarse una foto. La ciudad de Chos Malal se encuentra en el punto central de la Ruta 40 (5200 km de longitud). El hito consiste en un mástil de 24 m de altura, sobre una escarapela de 16 m de diámetro, que marca el punto medio de la mítica RN40."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2706727, -37.3892998]
+      },
+      "properties": {
+        "nombre": "Bodega Des de la Torre",
+        "categoria": "bodega",
+        "direccion": "Primeros Constituyentes 700",
+        "telefono": "2948 459452",
+        "instagram": "https://www.instagram.com/bodega_desdelatorre/",
+        "descripcion": "Esta Bodega es la primera emplazada en la región Norte y es la única que se encuentra sobre la Ruta 40 en la provincia Neuquén. Aquí se pueden hacer recorrido por los viñedos y visitas a la bodega donde se muestra el arte de hacer vino."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2614569, -37.3792427]
+      },
+      "properties": {
+        "nombre": "Cerro y Mirador de la Tortuga",
+        "categoria": "mirador",
+        "descripcion": "Ubicado a solo 1200 metros del cruce Paseo del Guardafauna y Ruta Nacional N° 40, este sendero de dificultad media-baja te llevará a un mirador natural con vistas impresionantes en sólo 20 minutos. Desde la cumbre podrás apreciar la ciudad de Chos Malal, la confluencia de los ríos Curi Leuvú y Neuquén, y las cadenas montañosas de la región."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2896159, -37.3612877]
+      },
+      "properties": {
+        "nombre": "Cerro de la Virgen",
+        "categoria": "mirador",
+        "descripcion": "Es un recorrido con una dificultad media, que puede hacerse en poco más de dos horas y media. Al llegar a la cima, uno se encuentra con la Virgen, realizada en el año 1954 por la iglesia católica y recientemente restaurada. Se puede disfrutar del paisaje que rodea el valle de Chos Malal y la unión de los ríos Neuquén y Curi Leuvú."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2767628, -37.3703285]
+      },
+      "properties": {
+        "nombre": "El Rial",
+        "categoria": "alojo",
+        "descripcion": "El alojo El Rial es para Familias Crianceras en época de Trashumancia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2760799, -37.3753386]
+      },
+      "properties": {
+        "nombre": "Parroquia María Auxiliadora",
+        "categoria": "iglesia",
+        "descripcion": "Fue inaugurada por los sacerdotes salesianos Domingo Milanesio y Bartolo Panaro el 7 de diciembre de 1888. Esta construcción de adobe y con techo de madera de roble traída en carretas desde las lagunas de Epulafquen, contó con el esfuerzo y trabajo mancomunado de los vecinos de Chos Malal. Mide 21 metros de largo por 6.10 mts de ancho y 6 mts de altura."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.276709, -37.3755696]
+      },
+      "properties": {
+        "nombre": "Biblioteca Popular Coronel Manuel José Olascoaga",
+        "categoria": "biblioteca",
+        "descripcion": "Este edificio está ubicado en la esquina de las calles 25 de Mayo y Belgrano, constituye uno de los edificios de mayor relevancia arquitectónica e histórica del norte neuquino. Su construcción se remonta a la década de 1880, siendo el primer edificio de la gobernación del territorio nacional del Neuquén. Albergó sucesivamente el cuartel General de la IV división, la escuela primaria N° 15, Oficina de correos y telégrafos, Municipalidad de Chos Malal."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2620737, -37.3874775]
+      },
+      "properties": {
+        "nombre": "Agencia de Viajes Valles y Volcanes",
+        "categoria": "agencia",
+        "direccion": "Av. Don Bosco s/n",
+        "telefono": "2942 690291",
+        "instagram": "https://www.instagram.com/vallesyvolcanes_turismotour/",
+        "web": "www.vallesyvolcanes.tur.ar",
+        "descripcion": "Agencia de viajes y turismo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2595832, -37.3913662]
+      },
+      "properties": {
+        "nombre": "Predio de la Fiesta Nacional del Chivito, la Danza y la Canción",
+        "categoria": "evento",
+        "descripcion": "Esta fiesta tiene más de 30 años pero desde el 2004 tiene categoría de fiesta 'nacional'. Cuenta con la presencia de numerosos artistas de nivel regional y nacional. Se puede disfrutar del desfile de gauchos, destrezas criollas, jineteadas, pan casero, empanadas, comidas regionales y chivitos al asador."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.268665, -37.3858868]
+      },
+      "properties": {
+        "nombre": "Scarabajo Viajes y Turismo",
+        "categoria": "agencia",
+        "direccion": "Caicallen 1238",
+        "telefono": "299 5472136",
+        "instagram": "https://www.instagram.com/scarabajo_viajes/",
+        "descripcion": "Legajo 19787 - Agencia de viajes y turismo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2761131, -37.3723168]
+      },
+      "properties": {
+        "nombre": "Paseo de Sabores",
+        "categoria": "paseo",
+        "descripcion": "Paseo gastronómico"
+      }
+    }
+  ]
+}
